@@ -1,16 +1,15 @@
 # Random Steam Game Selector
 
-Este proyecto utiliza Flask para seleccionar aleatoriamente un juego de Steam basado en los juegos que posee un usuario, las horas jugadas mínimas y los géneros seleccionados.
+Este proyecto utiliza Flask para seleccionar aleatoriamente un juego de Steam basado en los juegos que posee un usuario y las horas jugadas mínimas.
 
 ## Descripción
 
-El Random Steam Game Selector es una aplicación web que permite a los usuarios ingresar su nombre de usuario de Steam, establecer un número mínimo de horas jugadas y seleccionar géneros específicos de juegos. Luego, la aplicación selecciona aleatoriamente un juego que cumpla con estos criterios y muestra información relevante sobre él.
+El Random Steam Game Selector es una aplicación web que permite a los usuarios ingresar su nombre de usuario de Steam y establecer un número mínimo de horas jugadas. Luego, la aplicación selecciona aleatoriamente un juego que cumpla con estos criterios y muestra información relevante sobre él.
 
 ## Funcionalidades
 
 - **Ingreso de Usuario**: Permite a los usuarios ingresar su nombre de usuario de Steam.
 - **Filtro por Horas Jugadas**: Los usuarios pueden establecer un mínimo de horas jugadas para filtrar los juegos.
-- **Selección de Géneros**: Los usuarios pueden seleccionar uno o más géneros de juegos para restringir la selección.
 - **Selección Aleatoria**: La aplicación selecciona aleatoriamente un juego que cumpla con los criterios especificados.
 - **Visualización de Información**: Muestra información detallada del juego seleccionado, incluyendo nombre, imagen y horas jugadas.
 
@@ -19,7 +18,7 @@ El Random Steam Game Selector es una aplicación web que permite a los usuarios 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/random-steam-game-selector.git
+   git clone https://github.com/gvaello/random-steam-game-selector.git
 
     Instala las dependencias necesarias:
 
