@@ -41,7 +41,7 @@ Uso
 
     Abre tu navegador web y ve a http://localhost:5000 para acceder a la aplicación.
 
-    Ingresa tu nombre de usuario de Steam, establece el mínimo de horas jugadas y selecciona los géneros deseados.
+    Ingresa tu nombre de usuario de Steam, establece el mínimo de horas jugadas.
 
     Haz clic en el botón "Get Random Game" para obtener un juego aleatorio que cumpla con tus criterios.
 
